@@ -1,1 +1,1 @@
-# FreeCodeCamp-Guide-Images
+# Images
